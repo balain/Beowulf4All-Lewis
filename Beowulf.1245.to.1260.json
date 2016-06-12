@@ -1,0 +1,1348 @@
+[
+  {
+    "line": 1245,
+    "content": [
+      {
+        "word": "bordwudu",
+        "critical": "(b)ordwudu",
+        "part": "ap",
+        "gender": "m",
+        "trans": [
+          "wooden shield"
+        ],
+        "root": "bordwudu"
+      },
+      {
+        "word": "beorhtan",
+        "part": "adj",
+        "trans": [
+          "bright",
+          "brilliant",
+          "gleaming"
+        ],
+        "root": "beorht"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Þær",
+        "part": "adv",
+        "trans": [
+          "there"
+        ],
+        "root": "þær"
+      },
+      {
+        "word": "on",
+        "part": "prep",
+        "with": "dat",
+        "trans": [
+          "on",
+          "in"
+        ],
+        "root": "on"
+      },
+      {
+        "word": "bence",
+        "part": "n",
+        "gender": "f",
+        "trans": [
+          "bench"
+        ],
+        "see-also": [
+          "ealobenc",
+          "medobenc"
+        ],
+        "root": "benc"
+      },
+      {
+        "word": "wæs",
+        "part": "v",
+        "decl": "pret. 3s",
+        "trans": [
+          "was"
+        ],
+        "root": "beon"
+      }
+    ]
+  },
+  {
+    "line": 1246,
+    "content": [
+      {
+        "word": "ofer",
+        "part": "prep",
+        "with": "dat",
+        "trans": [
+          "over",
+          "above"
+        ],
+        "root": "ofer"
+      },
+      {
+        "word": "æþelinge",
+        "part": "n",
+        "gender": "m",
+        "trans": [
+          "a prince",
+          "a man",
+          "a hero"
+        ],
+        "see-also": [
+          "sibæþelinge"
+        ],
+        "root": "æþeling"
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "yþgesene",
+        "part": "adj",
+        "trans": [
+          "easily seen",
+          "easy to see",
+          "readily visible",
+          "manifest"
+        ],
+        "see-also": [
+          "gesyne"
+        ],
+        "root": "eþgesyne"
+      }
+    ]
+  },
+  {
+    "line": 1247,
+    "content": [
+      {
+        "word": "heaþosteapa",
+        "part": "adj",
+        "gender": "mns. wk.",
+        "trans": [
+          "steeped-in-war",
+          "towering in battle",
+          "battle steep"
+        ],
+        "see-also": [
+          "steap"
+        ],
+        "root": "heaþosteap"
+      },
+      {
+        "word": "helm",
+        "part": "n",
+        "trans": [
+          "helmet",
+          "protection",
+          "cover"
+        ],
+        "see-also": [
+          "grimhelm",
+          "guðhelm",
+          "nihthelm",
+          "scaduhelm",
+          "oferhelmian"
+        ],
+        "root": "helm"
+      },
+      {
+        "punc": ","
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "hringed",
+        "part": "adj",
+        "gender": "pp",
+        "trans": [
+          "ringed",
+          "formed of rings"
+        ],
+        "root": "hringed"
+      },
+      {
+        "word": "byrne",
+        "part": "ns",
+        "gender": "f",
+        "trans": [
+          "coat of mail",
+          "sorslet"
+        ],
+        "see-also": [
+          "guðbyrne",
+          "heaþobyrne",
+          "herebyrne",
+          "irenbyrne",
+          "isernbyrne"
+        ],
+        "root": "byrne"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1248,
+    "content": [
+      {
+        "word": "þrecwudu",
+        "part": "m",
+        "gender": "ns",
+        "trans": [
+          "spear",
+          "wooden spear",
+          "force-of-wood"
+        ],
+        "see-also": [
+          "wudu",
+          "mægenwudu"
+        ],
+        "root": "þrecwudu"
+      },
+      {
+        "word": "þrymlic",
+        "part": "adj",
+        "gender": "mns",
+        "trans": [
+          "mighty",
+          "magnificent"
+        ],
+        "see-also": [
+          "guðbyrne",
+          "heaþobyrne",
+          "herebyrne",
+          "irenbyrne",
+          "isernbyrne"
+        ],
+        "root": "byrne"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Wæs",
+        "part": "adj",
+        "decl": "pret 3s",
+        "trans": [
+          "Are"
+        ],
+        "root": "beon"
+      },
+      {
+        "word": "þeaw",
+        "part": "adj",
+        "gender": "mns",
+        "critical": "(þ)eaw",
+        "trans": [
+          "custom",
+          "habit",
+          "manner"
+        ],
+        "see-also": [
+          "geþywe"
+        ],
+        "root": "þeaw"
+      },
+      {
+        "word": "hyra",
+        "part": "p",
+        "gender": "mgp",
+        "number": "pl",
+        "trans": [
+          "their"
+        ],
+        "root": "heo"
+      }
+    ]
+  },
+  {
+    "line": 1249,
+    "content": [
+      {
+        "word": "þæt",
+        "part": "conj",
+        "trans": [
+          "that",
+          "so that"
+        ],
+        "root": "þæt"
+      },
+      {
+        "word": "hie",
+        "part": "p",
+        "gender": "mnp",
+        "trans": [
+          "they"
+        ],
+        "root": "he"
+      },
+      {
+        "word": "oft",
+        "part": "adv",
+        "trans": [
+          "continually",
+          "often",
+          "repeatedly"
+        ],
+        "root": "oft"
+      },
+      {
+        "word": "wæron",
+        "part": "v",
+        "decl": "pret 3p",
+        "trans": [
+          "were",
+          "lived"
+        ],
+        "root": "beon"
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "an",
+        "part": "prep",
+        "trans": [
+          "unto",
+          "on",
+          "in"
+        ],
+        "root": "on"
+      },
+      {
+        "word": "wig",
+        "part": "n",
+        "gender": "mns",
+        "trans": [
+          "battle",
+          "fight",
+          "warfare"
+        ],
+        "root": "feðewig"
+      },
+      {
+        "word": "gearwe",
+        "part": "adj",
+        "gender": "mnp",
+        "trans": [
+          "ready",
+          "geared",
+          "equipped"
+        ],
+        "see-also": [
+          "ealgearo",
+          "gearwe",
+          "fæðergearwe"
+        ],
+        "root": "gearo"
+      }
+    ]
+  },
+  {
+    "line": 1250,
+    "content": [
+      {
+        "word": "ge",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "both"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "æt",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "at"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "ham",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "home"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "ge",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "and"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "on",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "on",
+          "in"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "herge",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "campaign",
+          "army"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "ge",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "and"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "gehwæþer",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "wherever"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þara",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "they were"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1251,
+    "content": [
+      {
+        "word": "efne",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "even"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "swylce",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "such as"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "mæla",
+        "part": "n",
+        "gender": "g.pl",
+        "critical": "TBD",
+        "trans": [
+          "time",
+          "occasion",
+          "armor",
+          "sword"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "swylce",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "and"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "hira",
+        "part": "pronoun",
+        "gender": "g.pl",
+        "critical": "TBD",
+        "trans": [
+          "their"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "mandryhtne",
+        "part": "TBD",
+        "gender": "m",
+        "critical": "g.pl",
+        "trans": [
+          "lords"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      }
+    ]
+  },
+  {
+    "line": 1252,
+    "content": [
+      {
+        "word": "þearf",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "need"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "gesælde",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "had",
+          "happened"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Wæs",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "Were"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "seo",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "they"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þeod",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "fellowship",
+          "tribe",
+          "band"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "tilu",
+        "part": "n",
+        "gender": "f",
+        "number": "s",
+        "critical": "TBD",
+        "trans": [
+          "good",
+          "excellent",
+          "brave"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": "."
+      }
+    ]
+  },
+  {
+    "section-heading": ".XVIIII."
+  },
+  {
+    "line": 1253,
+    "content": [
+      {
+        "word": "Sigon",
+        "part": "v",
+        "gender": "",
+        "person": "3",
+        "number": "pl",
+        "critical": "TBD",
+        "trans": [
+          "[They] fell"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þa",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "then"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "to",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "to"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "slæpe",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "sleep"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Sum",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "One",
+          "Someone"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "sare",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "sore"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "angeald",
+        "part": "v",
+        "number": "3.sg",
+        "tense": "pret",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "paid a penalty for"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      }
+    ]
+  },
+  {
+    "line": 1254,
+    "content": [
+      {
+        "word": "æfenræste",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "sleep",
+          "evening rest"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "swa",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "as"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "him",
+        "part": "pronoun",
+        "gender": "m",
+        "case": "d",
+        "number": "sg",
+        "critical": "TBD",
+        "trans": [
+          "it"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "ful",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "very",
+          "quite"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "oft",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "often"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "gelamp",
+        "part": "v",
+        "gender": "TBD",
+        "number": "3.sg",
+        "critical": "TBD",
+        "trans": [
+          "came to pass"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1255,
+    "content": [
+      {
+        "word": "siþðan",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "since"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "goldsele",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "the gold hall"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Grendel",
+        "part": "n",
+        "gender": "TBD",
+        "number": "sg",
+        "critical": "TBD",
+        "trans": [
+          "Grendel"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "warode",
+        "part": "v",
+        "person": "3.pret",
+        "number": "sg",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "occupied",
+          "inhabited"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1256,
+    "content": [
+      {
+        "word": "unriht",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "æfnde",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "oþ",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þæt",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "ende",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "becwom",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1257,
+    "content": [
+      {
+        "word": "swylt",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "æfter",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "synnum",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Þæt",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "gesyne",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "wearþ",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  },
+  {
+    "line": 1258,
+    "content": [
+      {
+        "word": "widcuþ",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "werum",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      },
+      {
+        "word": "þætte",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "wrecend",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þa",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "gyt",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      }
+    ]
+  },
+  {
+    "line": 1259,
+    "content": [
+      {
+        "word": "lifde",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "æfter",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "laþum",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "lange",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "þrage",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      }
+    ]
+  },
+  {
+    "line": 1260,
+    "content": [
+      {
+        "word": "æfter",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "guðceare",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "TBD"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": "."
+      },
+      {
+        "caesura": 1
+      },
+      {
+        "word": "Grendles",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "Grendel's"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "word": "modor",
+        "part": "TBD",
+        "gender": "TBD",
+        "critical": "TBD",
+        "trans": [
+          "mother"
+        ],
+        "see-also": [
+          "TBD"
+        ],
+        "root": "TBD"
+      },
+      {
+        "punc": ","
+      }
+    ]
+  }
+]
